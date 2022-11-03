@@ -67,6 +67,4 @@ export const ProductDetails = styled('main', {
             backgroundColor: '$green300',
         }
     }
-
-
 })
